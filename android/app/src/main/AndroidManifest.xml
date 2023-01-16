@@ -3,7 +3,7 @@
    <application
         android:label="clone_dirbbox"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/clone_dirbbox">
         <activity
             android:name=".MainActivity"
             android:exported="true"
